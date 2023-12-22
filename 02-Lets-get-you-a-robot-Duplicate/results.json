@@ -1,0 +1,14 @@
+{
+    "tests": [
+        {
+            "name": "Test iiwa_position_measured",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed",
+            "output": "Current joint angles: [-0.0001471   0.00229092 -0.00309481]\nCurrent commanded joint angles: [0.1 0.2 0.3]\n\n"
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.62",
+    "score": 5
+}
