@@ -1,0 +1,19 @@
+{
+    "tests": [
+        {
+            "name": "Test outlier removal",
+            "score": 2,
+            "max_score": 2,
+            "status": "passed"
+        },
+        {
+            "name": "Test ransac method",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed"
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "1.32",
+    "score": 6
+}
