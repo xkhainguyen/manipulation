@@ -1,0 +1,25 @@
+{
+    "tests": [
+        {
+            "name": "Test test_set_friction",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed"
+        },
+        {
+            "name": "Test test_set_masses",
+            "score": 2,
+            "max_score": 2,
+            "status": "passed"
+        },
+        {
+            "name": "Test test_set_timestep",
+            "score": 2,
+            "max_score": 2,
+            "status": "passed"
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.00",
+    "score": 7
+}

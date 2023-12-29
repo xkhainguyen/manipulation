@@ -15,3 +15,9 @@ If GitHub cannot render .ipynb files, check [this](https://github.com/community/
 Please star ⭐ if you find it useful.
 
 ## Some Results
+
+<img src='media/bunny_icp.gif' width='500'>
+
+<img src='media/grasp.gif' width='500'>
+
+<img src='media/pick.gif' width='500'>
