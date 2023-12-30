@@ -18,6 +18,24 @@ Please star ⭐ if you find it useful.
 
 <img src='media/bunny_icp.gif' width='500'>
 
+Stanford bunny ICP
+
 <img src='media/grasp.gif' width='500'>
 
+Grasp planning with point clouds
+
 <img src='media/pick.gif' width='500'>
+
+Perception-based pick and place
+
+<img src='media/kin_trajopt.gif' width='500'>
+
+Kinematic trajectory optimization
+
+<img src='media/iris.gif' width='500'>
+
+Iterative Regional Inflation by Semidefinite programming (IRIS)
+
+<img src='media/gcs.png' width='500'>
+
+Graph of Convex Sets (GCS) with Bezier order = 6 and continuity order = 2
