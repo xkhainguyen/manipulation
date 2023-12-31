@@ -1,0 +1,14 @@
+{
+    "tests": [
+        {
+            "name": "Test solve_ik",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed",
+            "output": "Succeeded in 2 tries!\nSucceeded in 1 tries!\nSucceeded in 2 tries!\nFailed!\n"
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "39.76",
+    "score": 5
+}

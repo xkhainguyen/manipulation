@@ -1,0 +1,45 @@
+<?xml version='1.0'?>
+<sdf xmlns:drake="http://drake.mit.edu" version="1.8">
+  <model name='PalletPlywoodNew_GameReady'>
+    <link name='PalletPlywoodNew_GameReady'>
+      <inertial>
+        <pose>0.008946142759504196 0.14022795274823222 0.003901519803489431 0 0 0</pose>
+        <mass>189.57770868430626</mass>
+        <inertia>
+          <ixx>9.92040874804195</ixx>
+          <ixy>0.001681747472876896</ixy>
+          <ixz>0.06304559808477321</ixz>
+          <iyy>24.484722614052515</iyy>
+          <iyz>0.008473069315232045</iyz>
+          <izz>16.42522833202957</izz>
+        </inertia>
+      </inertial>
+      <visual name='visual'>
+        <pose>0.0 0.0 0.0 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <uri>PalletPlywoodNew_GameReady.obj</uri>
+            <scale>0.005 0.005 0.005</scale>
+          </mesh>
+        </geometry>
+      </visual>
+      <collision name='collision'>
+        <pose>0.0 0.0 0.0 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <uri>PalletPlywoodNew_GameReady.obj</uri>
+            <scale>0.005 0.005 0.005</scale>
+          </mesh>
+        </geometry>
+        <!-- The proximity properties immediately below enable the hydroelastic
+             contact model for this body. To use point contact instead, delete
+             or comment out the <drake:rigid_hydroelastic> element. -->
+        <drake:proximity_properties>
+          <drake:mu_dynamic>0.5</drake:mu_dynamic>
+          <drake:mu_static>0.5</drake:mu_static>
+          <drake:rigid_hydroelastic/>
+        </drake:proximity_properties>
+      </collision>
+    </link>
+  </model>
+</sdf>
