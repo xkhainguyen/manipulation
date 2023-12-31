@@ -16,26 +16,38 @@ Please star ⭐ if you find it useful.
 
 ## Some Results
 
-<img src='media/bunny_icp.gif' width='500'>
-
-Stanford bunny ICP
-
-<img src='media/grasp.gif' width='500'>
-
-Grasp planning with point clouds
-
-<img src='media/pick.gif' width='500'>
+<img src='media/pick.gif' width='400'>
 
 Perception-based pick and place
 
-<img src='media/kin_trajopt.gif' width='500'>
-
-Kinematic trajectory optimization
-
-<img src='media/iris.gif' width='500'>
+<img src='media/iris.gif' width='400'>
 
 Iterative Regional Inflation by Semidefinite programming (IRIS)
 
-<img src='media/gcs.png' width='500'>
+<img src='media/gcs.png' width='400'>
 
 Graph of Convex Sets (GCS) with Bezier order = 6 and continuity order = 2
+
+<img src='media/kin_trajopt.gif' width='400'>
+
+Kinematic trajectory optimization
+
+<img src='media/open_door.gif' width='400'>
+
+Door openning kinematic trajectory optimization
+
+<img src='media/mobile.gif' width='400'>
+
+Mobile manipulation inverse kinematic optimization
+
+<img src='media/motion_force.gif' width='400'>
+
+Hybrid motion/force control for dragging
+
+<img src='media/bunny_icp.gif' width='400'>
+
+Stanford bunny ICP
+
+<img src='media/grasp.gif' width='400'>
+
+Grasp planning with point clouds
