@@ -1,0 +1,19 @@
+{
+    "tests": [
+        {
+            "name": "Testing don_loss",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed"
+        },
+        {
+            "name": "Testing don_predict",
+            "score": 4,
+            "max_score": 4,
+            "status": "passed"
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "1.52",
+    "score": 8
+}

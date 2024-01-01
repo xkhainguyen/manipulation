@@ -1,0 +1,13 @@
+{
+    "tests": [
+        {
+            "name": "Testing deproject_pW_to_image",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed"
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.02",
+    "score": 3
+}
