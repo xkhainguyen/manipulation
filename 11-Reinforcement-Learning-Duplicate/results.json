@@ -1,0 +1,26 @@
+{
+    "tests": [
+        {
+            "name": "Testing advantage function",
+            "score": 0.0,
+            "max_score": 4,
+            "status": "failed",
+            "output": "tensor(5.4178)\n\nTest Failed: tensor(5.4178) not less than 5.0 : computation of the advantage function is incorrect\n"
+        },
+        {
+            "name": "Testing the policy loss",
+            "score": 2,
+            "max_score": 2,
+            "status": "passed"
+        },
+        {
+            "name": "Testing the value loss",
+            "score": 2,
+            "max_score": 2,
+            "status": "passed"
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.00",
+    "score": 4.0
+}
